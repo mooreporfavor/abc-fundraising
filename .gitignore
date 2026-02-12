@@ -1,6 +1,11 @@
 __pycache__/
-*.csv
-!task_1_processed_v2.csv
 .vscode/
 .idea/
 *.pyc
+Donor Data Analysis for CPO.md
+New Report Text.md
+New Report Text.odt
+Monday reactivation hits export.csv
+task_1_processed.csv
+task_1.csv
+task_2.csv
