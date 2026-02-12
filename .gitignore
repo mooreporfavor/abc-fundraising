@@ -1,5 +1,6 @@
 __pycache__/
 *.csv
+!task_1_processed_v2.csv
 .vscode/
 .idea/
 *.pyc
